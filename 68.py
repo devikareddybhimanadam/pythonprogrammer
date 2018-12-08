@@ -1,5 +1,5 @@
 num=int(input(""))
 if num%7==0:
-    print "yes"
+    print "y"
 else:
-    print "no"
+    print "n"
