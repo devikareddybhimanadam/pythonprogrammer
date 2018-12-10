@@ -1,2 +1,2 @@
-n=float(raw_input(""))
-print int(round(n))
+number=float(raw_input(""))
+print int(round(number))
