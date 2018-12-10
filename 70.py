@@ -1,2 +1,2 @@
-n=int(input(""))
-print n*2
+i=int(input(""))
+print i*2
